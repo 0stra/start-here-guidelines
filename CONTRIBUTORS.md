@@ -8,6 +8,8 @@
 
 -[@henrysaba](https://github.com/henrysaba)
 
+-[@nitin](https://github.com/0stra)
+
 -[@Abhijeet05061998](https://github.com/Abhijeet05061998)
 
 -[@Divyasahithya](https://github.com/Divyasahithya)
